@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stackuuid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stack URLs and uuid query parts with stable normalization.",
+  "bin": {
+    "stackuuid": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stackuuid.git"
+  },
+  "homepage": "https://theworker02.github.io/stackuuid/",
+  "keywords": [
+    "stack",
+    "uuid",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
